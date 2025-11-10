@@ -37,7 +37,7 @@ Depending on the distance:
 
 ## 🖼️ Setup Images
 <p align="center">
-  <img src="images/working_demo.jpg" width="400"/>
+  <img src="images/led-blinking.jpg" width="400"/>
   <br/>
   <em>Project prototype setup with LCD and sensor</em>
 </p>
